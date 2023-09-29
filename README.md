@@ -36,8 +36,7 @@ public class UserController {
 
 마이바티스 xml 설정시 인텔리제이 워닝이 떠서 고치는 방법
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ba2242bc-062c-4f7e-9da6-424d40bd54b5/Untitled.png)
-
+https://www.notion.so/leejaeyoung/2023-02-09-user-Save-gitHub-cc5bd2ab073b4455acf6fc4c49cd08ff?pvs=4#e6f75b8726be4e6b99f39c6ec9617c6d
 xml 
 
 ```markup
