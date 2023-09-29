@@ -36,8 +36,7 @@ public class UserController {
 
 마이바티스 xml 설정시 인텔리제이 워닝이 떠서 고치는 방법
 
-https://www.notion.so/leejaeyoung/2023-02-09-user-Save-gitHub-cc5bd2ab073b4455acf6fc4c49cd08ff?pvs=4#e6f75b8726be4e6b99f39c6ec9617c6d
-xml 
+![image](https://github.com/jaeyoung4019/KeyCloak_OIDC_ConnectTest/assets/135151752/796968da-02ad-4ab0-813d-697b170c60a9)
 
 ```markup
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
@@ -139,19 +138,13 @@ public class UserController {
 
 gitHubIdp 추가하기 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6571d330-f409-4846-82c6-88206044b7f5/Untitled.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6465d1d6-2c38-4975-8e4a-b59b3e00e7db/Untitled.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be20fcbc-b1e0-4c9c-af55-a058b321d7ed/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c707976b-29c5-446e-b6ca-84b47a5fa6d4/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/330026f7-a1e7-4685-b41d-0cdb0c874b6f/Untitled.png)
+![image](https://github.com/jaeyoung4019/KeyCloak_OIDC_ConnectTest/assets/135151752/99d795cd-c2c4-45be-9a6a-56df94057ec7)
 
 추가 해준다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3333c70b-096d-4381-a896-c2f0a8db8322/Untitled.png)
+![image](https://github.com/jaeyoung4019/KeyCloak_OIDC_ConnectTest/assets/135151752/a68943d4-12b3-4363-84c5-7d10b6657bc7)
 
 깃 허브도 정상적으로 연동 됨
 
@@ -276,7 +269,9 @@ cors.keycloak: http://localhost:8090
 
 결과 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4186eb86-cf2e-496e-a638-8425e9733d13/Untitled.png)
+![image](https://github.com/jaeyoung4019/KeyCloak_OIDC_ConnectTest/assets/135151752/0fbbec3b-fb9f-4d77-b1e3-4d9768b88ba1)
+
 
 유저 카운트 체크 테스트
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c119eb3a-0dca-46ac-a127-64a2632bcc40/Untitled.png)
+![image](https://github.com/jaeyoung4019/KeyCloak_OIDC_ConnectTest/assets/135151752/a44b0c82-178b-4303-9175-37e6a4c0ec10)
+
